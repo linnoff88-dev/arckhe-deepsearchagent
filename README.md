@@ -1,4 +1,4 @@
-﻿# DeepSearchAgent
+# DeepSearchAgent
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -471,4 +471,4 @@ Se este projeto foi util para voce, deixe uma estrela!
 
 ---
 
-Projeto adaptado da comunidade INEMA TDS - Marca Arckhe
+Projeto adaptado da comunidade ARCKHÉ TDS - Marca Arckhe
