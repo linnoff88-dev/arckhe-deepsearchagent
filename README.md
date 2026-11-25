@@ -471,4 +471,4 @@ Se este projeto foi util para voce, deixe uma estrela!
 
 ---
 
-Projeto adaptado da comunidade ARCKHÉ TDS - Marca Arckhe
+Projeto adaptado da comunidade ARCKHÉ TDS - ARCKHÉe
